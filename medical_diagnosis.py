@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 # ── Dataset ───────────────────────────────────────────────────────────────────
 
 PATIENT_RECORDS = [
-    # Glucose  BMI    Label  Description
+# Glucose  BMI    Label  Description
     (0.7,     0.8,   1,     "High glucose, High BMI"),
     (0.2,     0.3,   0,     "Low glucose, Low BMI"),
     (0.8,     0.6,   1,     "High glucose, Medium BMI"),
