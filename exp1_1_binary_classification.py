@@ -1,8 +1,5 @@
 """
 Experiment 1.1 – Single Layer Perceptron for Binary Classification
-Course  : Soft Computing Lab (PEC-CSG691A)
-Sem     : B.Tech CSE-2023, Semester VI
-Faculty : Dr. Vandana Yadav & Dr. Sandip Das
 
 Aim: Implement a Single Layer Perceptron (SLP) to perform binary
      classification and verify it on logic gate datasets (AND, OR).
@@ -124,7 +121,7 @@ for ax, (name, X, y) in zip(axes, [("AND", X_and, y_and), ("OR", X_or, y_or)]):
     ax.legend(loc="upper left")
     ax.grid(True, linestyle="--", alpha=0.5)
 
-    # Custom legend for class colours
+    # Custom legend for class colours index
     from matplotlib.lines import Line2D
     legend_elements = [
         Line2D([0], [0], marker="o", color="w", markerfacecolor="red",  markersize=10, label="Class 0"),
