@@ -1,8 +1,5 @@
 """
 Experiment 1.3 – Convergence Analysis & Final Weight Extraction
-Course  : Soft Computing Lab (PEC-CSG691A)
-Sem     : B.Tech CSE-2023, Semester VI
-Faculty : Dr. Vandana Yadav & Dr. Sandip Das
 
 Aim: Plot the convergence curve (error vs epoch) and extract the final
      learned weights and decision boundary.
