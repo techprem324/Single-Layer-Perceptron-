@@ -1,29 +1,4 @@
-# 🧠 Soft Computing Lab — Module 1: Single Layer Perceptron
-
-<table>
-<tr>
-  <td><strong>Course</strong></td><td>Soft Computing Lab (PEC-CSG691A)</td>
-</tr>
-<tr>
-  <td><strong>Programme</strong></td><td>B.Tech CSE-2023, Semester VI</td>
-</tr>
-<tr>
-  <td><strong>Batch</strong></td><td>BTECH CSE-2023-SEC-A</td>
-</tr>
-<tr>
-  <td><strong>Faculty</strong></td><td>Dr. Vandana Yadav &amp; Dr. Sandip Das (CSE)</td>
-</tr>
-<tr>
-  <td><strong>University</strong></td><td>Brainware University</td>
-</tr>
-<tr>
-  <td><strong>Language</strong></td><td>Python 3.x (NumPy, scikit-learn, matplotlib)</td>
-</tr>
-</table>
-
----
-
-## 📚 Table of Contents
+## 📚 Table of Contents for a perceptron in Soft Computing
 
 1. [Repository Structure](#-repository-structure)
 2. [Prerequisites & Setup](#-prerequisites--setup)
@@ -327,15 +302,4 @@ Overall Accuracy: 100.0%
 
 ---
 
-## 📝 Lab Viva Questions
-
-1. What is the Perceptron Convergence Theorem?
-2. Why can't a Single Layer Perceptron solve the XOR problem?
-3. What is the role of the bias term in a perceptron?
-4. How does the Fixed Increment Rule differ from a variable learning rate?
-5. What is a decision boundary, and how is it derived from learned weights?
-6. What activation function does a perceptron use, and why?
-
----
-
-*Lab Manual authored by Dr. Vandana Yadav & Dr. Sandip Das, CSE Department, Brainware University.*
+*A short and detailed analysis about the working principle of a Single Layer Perceptron using techniques like Linear Summation and Thresholding, Decision Boundary Extraction and Supervised Learning Techniques*
