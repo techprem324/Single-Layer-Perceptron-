@@ -1,8 +1,5 @@
 """
 Case Study – Medical Diagnosis using Single Layer Perceptron
-Course  : Soft Computing Lab (PEC-CSG691A)
-Sem     : B.Tech CSE-2023, Semester VI
-Faculty : Dr. Vandana Yadav & Dr. Sandip Das
 
 Problem Statement:
     Classify patients as Diabetic (1) or Non-Diabetic (0) based on two
