@@ -291,15 +291,4 @@ Overall Accuracy: 100.0%
 
 ---
 
-## 🎯 Course Outcomes
-
-| CO | Statement |
-|----|-----------|
-| CO1 | Implement Single Layer Perceptron for binary classification tasks |
-| CO2 | Analyse convergence behaviour using weight trace tables and error curves |
-| CO3 | Apply perceptron learning to real-world binary classification problems |
-| CO4 | Interpret learned weights and decision boundaries geometrically |
-
----
-
 *A short and detailed analysis about the working principle of a Single Layer Perceptron using techniques like Linear Summation and Thresholding, Decision Boundary Extraction and Supervised Learning Techniques*
