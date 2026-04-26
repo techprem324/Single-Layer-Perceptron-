@@ -1,8 +1,5 @@
 """
 Experiment 1.2 – Training Perceptron using Fixed Increment Learning Algorithm
-Course  : Soft Computing Lab (PEC-CSG691A)
-Sem     : B.Tech CSE-2023, Semester VI
-Faculty : Dr. Vandana Yadav & Dr. Sandip Das
 
 Aim: Train a perceptron using the Fixed Increment Learning Rule and track
      convergence over epochs.
@@ -72,7 +69,7 @@ class FixedIncrementPerceptron:
 
     def print_weight_history(self) -> None:
         """Pretty-print the full weight update history."""
-        print("\n=== Weight Update History ===")
+        print("\n=== Weight Update History status ===")
         for epoch, w, b, errs in self.history:
             print(f"  Epoch {epoch:02d}: w={np.round(w, 3)}, b={b:.2f}, errors={errs}")
 
